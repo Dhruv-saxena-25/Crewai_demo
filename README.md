@@ -22,7 +22,7 @@ A powerful content generation system built with CrewAI that combines research, a
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd Crewai_demo
+cd Crewai_demo 
 ```
 
 2. Create and activate a virtual environment:
